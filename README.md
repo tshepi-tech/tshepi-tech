@@ -3,7 +3,13 @@
 Hi & welcome to my profile. 
 My journey as a developer started by playing around with no-code and kickstarted by participating in a bootcamp based on React. With this super power and more that I am learning I look forward to bringing ideas to life!
 
-  <img align="right" alt="Coding" width="400" src="https://github.com/tshepi-tech/tshepi-tech/blob/main/giphy-codingpurple.gif">
+  <img align="right" alt="Coding" width="200" length="200" src="https://github.com/tshepi-tech/tshepi-tech/blob/main/giphy-codingpurple.gif">
+
+
+
+
+
+
 
 ## ☕ Let's talk
 
