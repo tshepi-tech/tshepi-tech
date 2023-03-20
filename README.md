@@ -11,7 +11,7 @@ My journey as a developer started by playing around with no-code and kickstarted
 * Community building
 
 ## ⚡ Skills
-- - - -
+
 * React 
 * Javascript
 * Typescript
@@ -23,7 +23,7 @@ In progress
 * API development 
 
 ## 💻 Goals 2023
-- - - -
+
 
 * Open source contribution
 * 'master' Git
