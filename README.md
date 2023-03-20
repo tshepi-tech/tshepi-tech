@@ -1,10 +1,11 @@
 [![MasterHead](https://github.com/tshepi-tech/tshepi-tech/blob/main/header.png)](https://github.com/tshepi-tech)
 
+<img align="right" alt="Coding" width="200" length="200" src="https://github.com/tshepi-tech/tshepi-tech/blob/main/giphy-codingpurple.gif">
+
 Hi & welcome to my profile. 
 My journey as a developer started by playing around with no-code and kickstarted by participating in a bootcamp based on React. With this super power and more that I am learning I look forward to bringing ideas to life!
 
-  <img align="right" alt="Coding" width="200" length="200" src="https://github.com/tshepi-tech/tshepi-tech/blob/main/giphy-codingpurple.gif">
-
+  
 
 
 
