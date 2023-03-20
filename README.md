@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/tshepi-tech/tshepi-tech/commit/181fca2a3bbce8b52eb06d5f8f473108791563f1)](https://github.com/tshepi-tech)
+[![MasterHead](https://github.com/tshepi-tech/tshepi-tech/blob/main/header.png)](https://github.com/tshepi-tech)
 
 <!--
 **tshepi-tech/tshepi-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
