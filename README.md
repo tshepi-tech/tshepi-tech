@@ -4,7 +4,7 @@ Hi & welcome to my profile.
 My journey as a developer started by playing around with no-code and kickstarted by participating in a bootcamp based on React. With this super power and more that I am learning I look forward to bringing ideas to life!
 
 ## ☕ Let's talk
-- - - -
+
 * No-code
 * Frontend (React)
 * Life as a developer in Sweden
