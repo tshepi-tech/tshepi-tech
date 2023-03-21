@@ -32,6 +32,10 @@ In progress
 
 ## ✏️ Top picks from my content
 
+* [React Refactoring tutorial using Scrimba](https://scrimba.com/scrim/cVWWPqfZ)
+* [3D printing earrings, my most popular Youtube video](https://www.youtube.com/watch?v=kGRgCaaN_W8)
+* [Blog:  my first week as learning to be a developer](https://techcurious.hashnode.dev/programming-fundamentals)
+
 ## ☎️ Contact me
 
 <p align="left">
@@ -56,5 +60,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-content: no code video, blog post, scrim
 -->
