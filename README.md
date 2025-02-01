@@ -3,32 +3,32 @@
 <img align="right" alt="Coding" width="200" length="200" src="https://github.com/tshepi-tech/tshepi-tech/blob/main/giphy-codingpurple.gif">
 
 Hi & welcome to my profile. 
-My journey as a developer started by playing around with no-code and kickstarted by participating in a bootcamp based on React. With this super power and more that I am learning I look forward to bringing ideas to life!
+I am a software developer at IKEA in Malmö Sweden!
 
 ## ☕ Let's talk
 
 * No-code
 * Frontend (React)
-* Life as a developer in Sweden
-* Community building
+* Life as an immigrant developer in Sweden
 
 ## ⚡ Skills
 
 * React 
 * Javascript
 * Typescript
-* Firebase
+* Node JS
+* Express
 
 In progress
 
-* Python
-* API development 
+* [Josh Comeau: The Joy of React](https://www.joyofreact.com/) 
 
-## 💻 Goals 2023
+## 💻 Goals 2025
 
 * Open source contribution
-* 'master' Git
-* Present/teach technical workshop
+* ACCESSIBILITY certification
+* Improve my Typescript understanding
+* Present a talk at a conference
 
 ## ✏️ Top picks from my content
 
